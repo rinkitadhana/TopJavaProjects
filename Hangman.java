@@ -1,4 +1,3 @@
-package section.Top10;
 
 import java.io.File;
 import java.io.FileNotFoundException;
